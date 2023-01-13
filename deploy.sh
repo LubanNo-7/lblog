@@ -7,9 +7,9 @@ cd ./public
 
 git init
 git add -A
-git commit -m '--更新'
+git commit -m '--更新下'
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>    https://github.com/LubanNo-7/lblog.git
-git push -f git@github.com:LubanNo-7/lblog.git main
+git push -f https://github.com/LubanNo-7/lblog.git main
 
 cd -
