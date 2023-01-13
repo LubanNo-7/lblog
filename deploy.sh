@@ -5,7 +5,6 @@ set -e
 # 进入生成的文件夹
 cd ./public
 
-git init
 git add -A
 git commit -m '--更新下'
 
